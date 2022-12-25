@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../../../Assets/logo.png'
+import logo from '../../Assets/profile.png'
 import { AuthContext } from '../Context/AuthProvider';
 
 const Header = () => {
